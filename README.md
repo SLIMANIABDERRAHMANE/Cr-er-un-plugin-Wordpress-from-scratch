@@ -1,1 +1,1 @@
-# Cr-er-un-plugin-Wordpress-from-scratch
+# Download the file.zip Go to wordpress add new plugin Then upload the file.zip
